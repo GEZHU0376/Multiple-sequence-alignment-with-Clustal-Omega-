@@ -6,3 +6,10 @@ Key words: Python, C++, Sequence alignment, Motif
 #Sequence source: NCBI
 #MSA tool: Clustal Omega
 
+Built With:
+Python 3
+
+Authors: Ge Zhu
+
+Date: 02-10-2019
+Update date: 1-15-2020
